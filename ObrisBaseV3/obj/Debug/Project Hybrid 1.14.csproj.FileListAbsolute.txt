@@ -1,0 +1,14 @@
+C:\Users\Davide\Desktop\PS3\ObrisBaseV3\ObrisBaseV3\bin\Debug\ObrisBaseV3.exe.config
+C:\Users\Davide\Desktop\PS3\ObrisBaseV3\ObrisBaseV3\bin\Debug\ObrisBaseV3.exe
+C:\Users\Davide\Desktop\PS3\ObrisBaseV3\ObrisBaseV3\bin\Debug\ObrisBaseV3.pdb
+C:\Users\Davide\Desktop\PS3\ObrisBaseV3\ObrisBaseV3\bin\Debug\PS3Lib.dll
+C:\Users\Davide\Desktop\PS3\ObrisBaseV3\ObrisBaseV3\bin\Debug\ps3tmapi_net.dll
+C:\Users\Davide\Desktop\PS3\ObrisBaseV3\ObrisBaseV3\obj\Debug\Project Hybrid 1.14.csprojResolveAssemblyReference.cache
+C:\Users\Davide\Desktop\PS3\ObrisBaseV3\ObrisBaseV3\obj\Debug\ObrisBaseV3.Form1.resources
+C:\Users\Davide\Desktop\PS3\ObrisBaseV3\ObrisBaseV3\obj\Debug\ObrisBaseV3.Properties.Resources.resources
+C:\Users\Davide\Desktop\PS3\ObrisBaseV3\ObrisBaseV3\obj\Debug\Project Hybrid 1.14.csproj.GenerateResource.Cache
+C:\Users\Davide\Desktop\PS3\ObrisBaseV3\ObrisBaseV3\obj\Debug\ObrisBaseV3.exe
+C:\Users\Davide\Desktop\PS3\ObrisBaseV3\ObrisBaseV3\obj\Debug\ObrisBaseV3.pdb
+C:\Users\Davide\Desktop\Visual Studio , Source , Theme & Project\Project\Project Hybrid\ObrisBaseV3\bin\Debug\ObrisBaseV3.exe.config
+C:\Users\Davide\Desktop\Visual Studio , Source , Theme & Project\Project\Project Hybrid\ObrisBaseV3\obj\Debug\ObrisBaseV3.exe
+C:\Users\Davide\Desktop\Visual Studio , Source , Theme & Project\Project\Project Hybrid\ObrisBaseV3\obj\Debug\ObrisBaseV3.pdb

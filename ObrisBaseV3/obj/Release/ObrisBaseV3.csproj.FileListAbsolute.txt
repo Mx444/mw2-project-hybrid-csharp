@@ -1,0 +1,11 @@
+C:\Users\Davide\Desktop\PS3\ObrisBaseV3\ObrisBaseV3\bin\Release\ObrisBaseV3.exe.config
+C:\Users\Davide\Desktop\PS3\ObrisBaseV3\ObrisBaseV3\obj\Release\ObrisBaseV3.csprojResolveAssemblyReference.cache
+C:\Users\Davide\Desktop\PS3\ObrisBaseV3\ObrisBaseV3\obj\Release\ObrisBaseV3.Form1.resources
+C:\Users\Davide\Desktop\PS3\ObrisBaseV3\ObrisBaseV3\obj\Release\ObrisBaseV3.Properties.Resources.resources
+C:\Users\Davide\Desktop\PS3\ObrisBaseV3\ObrisBaseV3\obj\Release\ObrisBaseV3.csproj.GenerateResource.Cache
+C:\Users\Davide\Desktop\PS3\ObrisBaseV3\ObrisBaseV3\bin\Release\ObrisBaseV3.exe
+C:\Users\Davide\Desktop\PS3\ObrisBaseV3\ObrisBaseV3\bin\Release\ObrisBaseV3.pdb
+C:\Users\Davide\Desktop\PS3\ObrisBaseV3\ObrisBaseV3\bin\Release\PS3Lib.dll
+C:\Users\Davide\Desktop\PS3\ObrisBaseV3\ObrisBaseV3\bin\Release\ps3tmapi_net.dll
+C:\Users\Davide\Desktop\PS3\ObrisBaseV3\ObrisBaseV3\obj\Release\ObrisBaseV3.exe
+C:\Users\Davide\Desktop\PS3\ObrisBaseV3\ObrisBaseV3\obj\Release\ObrisBaseV3.pdb

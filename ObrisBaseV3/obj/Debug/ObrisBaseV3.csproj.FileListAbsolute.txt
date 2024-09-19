@@ -1,0 +1,32 @@
+C:\Users\Bo\Documents\Visual Studio 2012\Projects\ObrisBaseV3\ObrisBaseV3\bin\Debug\ObrisBaseV3.exe.config
+C:\Users\Bo\Documents\Visual Studio 2012\Projects\ObrisBaseV3\ObrisBaseV3\bin\Debug\ObrisBaseV3.exe
+C:\Users\Bo\Documents\Visual Studio 2012\Projects\ObrisBaseV3\ObrisBaseV3\bin\Debug\ObrisBaseV3.pdb
+C:\Users\Bo\Documents\Visual Studio 2012\Projects\ObrisBaseV3\ObrisBaseV3\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\Bo\Documents\Visual Studio 2012\Projects\ObrisBaseV3\ObrisBaseV3\bin\Debug\PS3Lib.dll
+C:\Users\Bo\Documents\Visual Studio 2012\Projects\ObrisBaseV3\ObrisBaseV3\bin\Debug\ps3tmapi_net.dll
+C:\Users\Bo\Documents\Visual Studio 2012\Projects\ObrisBaseV3\ObrisBaseV3\obj\Debug\ObrisBaseV3.csprojResolveAssemblyReference.cache
+C:\Users\Bo\Documents\Visual Studio 2012\Projects\ObrisBaseV3\ObrisBaseV3\obj\Debug\ObrisBaseV3.Form1.resources
+C:\Users\Bo\Documents\Visual Studio 2012\Projects\ObrisBaseV3\ObrisBaseV3\obj\Debug\ObrisBaseV3.Properties.Resources.resources
+C:\Users\Bo\Documents\Visual Studio 2012\Projects\ObrisBaseV3\ObrisBaseV3\obj\Debug\ObrisBaseV3.csproj.GenerateResource.Cache
+C:\Users\Bo\Documents\Visual Studio 2012\Projects\ObrisBaseV3\ObrisBaseV3\obj\Debug\ObrisBaseV3.exe
+C:\Users\Bo\Documents\Visual Studio 2012\Projects\ObrisBaseV3\ObrisBaseV3\obj\Debug\ObrisBaseV3.pdb
+C:\Users\Bo\Documents\Visual Studio 2012\Projects\New Stuff\ObrisBaseV3\ObrisBaseV3\bin\Debug\ObrisBaseV3.exe.config
+C:\Users\Bo\Documents\Visual Studio 2012\Projects\New Stuff\ObrisBaseV3\ObrisBaseV3\obj\Debug\ObrisBaseV3.exe
+C:\Users\Bo\Documents\Visual Studio 2012\Projects\New Stuff\ObrisBaseV3\ObrisBaseV3\obj\Debug\ObrisBaseV3.pdb
+C:\Users\Bo\Documents\Visual Studio 2012\Projects\New Stuff\ObrisBaseV3\ObrisBaseV3\bin\Debug\ObrisBaseV3.exe
+C:\Users\Bo\Documents\Visual Studio 2012\Projects\New Stuff\ObrisBaseV3\ObrisBaseV3\bin\Debug\ObrisBaseV3.pdb
+C:\Users\Bo\Documents\Visual Studio 2012\Projects\New Stuff\ObrisBaseV3\ObrisBaseV3\obj\Debug\ObrisBaseV3.csprojResolveAssemblyReference.cache
+C:\Users\Bo\Documents\Visual Studio 2012\Projects\New Stuff\ObrisBaseV3\ObrisBaseV3\obj\Debug\ObrisBaseV3.Form1.resources
+C:\Users\Bo\Documents\Visual Studio 2012\Projects\New Stuff\ObrisBaseV3\ObrisBaseV3\obj\Debug\ObrisBaseV3.Properties.Resources.resources
+C:\Users\Bo\Documents\Visual Studio 2012\Projects\New Stuff\ObrisBaseV3\ObrisBaseV3\obj\Debug\ObrisBaseV3.csproj.GenerateResource.Cache
+C:\Users\Davide\Desktop\PS3\ObrisBaseV3\ObrisBaseV3\bin\Debug\ObrisBaseV3.exe.config
+C:\Users\Davide\Desktop\PS3\ObrisBaseV3\ObrisBaseV3\obj\Debug\ObrisBaseV3.exe
+C:\Users\Davide\Desktop\PS3\ObrisBaseV3\ObrisBaseV3\obj\Debug\ObrisBaseV3.pdb
+C:\Users\Davide\Desktop\PS3\ObrisBaseV3\ObrisBaseV3\bin\Debug\ObrisBaseV3.exe
+C:\Users\Davide\Desktop\PS3\ObrisBaseV3\ObrisBaseV3\bin\Debug\ObrisBaseV3.pdb
+C:\Users\Davide\Desktop\PS3\ObrisBaseV3\ObrisBaseV3\obj\Debug\ObrisBaseV3.csprojResolveAssemblyReference.cache
+C:\Users\Davide\Desktop\PS3\ObrisBaseV3\ObrisBaseV3\obj\Debug\ObrisBaseV3.Form1.resources
+C:\Users\Davide\Desktop\PS3\ObrisBaseV3\ObrisBaseV3\obj\Debug\ObrisBaseV3.Properties.Resources.resources
+C:\Users\Davide\Desktop\PS3\ObrisBaseV3\ObrisBaseV3\obj\Debug\ObrisBaseV3.csproj.GenerateResource.Cache
+C:\Users\Davide\Desktop\PS3\ObrisBaseV3\ObrisBaseV3\bin\Debug\PS3Lib.dll
+C:\Users\Davide\Desktop\PS3\ObrisBaseV3\ObrisBaseV3\bin\Debug\ps3tmapi_net.dll
